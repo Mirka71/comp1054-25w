@@ -16,3 +16,41 @@ html {
 	width: 80%;
 	margin: 0 auto;
 }
+
+
+/* Allign titles */
+ul {
+	list-style-type: none;
+	text-decoration: none;
+	display: flex;
+	
+}
+
+.tabs {
+	border: 1px;
+}
+
+li {
+	background-color: grey;
+	
+	
+}
+
+a:hover {
+	background-color: white;
+	color: black;
+}
+
+.tabs a {
+	text-decoration: none;
+	color: black;
+	
+}
+
+[role="tab"] {
+
+}
+
+
+
+
