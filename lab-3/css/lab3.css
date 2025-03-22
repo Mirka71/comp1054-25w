@@ -56,30 +56,9 @@ li:hover {
     color: black;
 }
 
-/* source https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Roles/checkbox_role*/
 
-/* [role="tabpanel"] {
-    display: block;
-} */
 
-/* #tabpanel1 {
-	display: none;
-}
-#tabpanel1 p:hover {
-	display:block;
-}
 
-#tabpanel2 {
-	display: none;
-}
-
-#tabpanel2 p:hover {
-	display:block;
-} */
-
-.tabs [role="tabpanel"]:hover + [role="tablist"] {
-	display: block;
-}
 
 
 
